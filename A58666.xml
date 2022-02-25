@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summary of the acts of the Parliaments of Scotland against popery and papists.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58666</idno>
+            <idno type="STC">Wing S1347A</idno>
+            <idno type="STC">ESTC R11734</idno>
+            <idno type="EEBO-CITATION">11824668</idno>
+            <idno type="OCLC">ocm 11824668</idno>
+            <idno type="VID">49632</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49632)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 822:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summary of the acts of the Parliaments of Scotland against popery and papists.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Imprint from NUC.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_antipapist_acts">
+            <pb n="1" facs="tcp:49632:1" rendition="simple:additions"/>
+            <head>A SUMMARY OF THE ACTS OF THE PARLIAMENTS OF SCOTLAND AGAINST <hi>Popery and Papiſts.</hi>
+            </head>
+            <p>
+               <hi>IMprimis,</hi> By an Act of Parliament of <hi>Q. Mary</hi> made at <hi>Edenburgh</hi> the 24 <hi>Auguſt,</hi> 1560. Popery is aboliſhed.</p>
+            <p>
+               <hi>Item.</hi> By the Second Act 1 Parl. <hi>Jac.</hi> 6. 1567. the before mentioned Act is ra<g ref="char:EOLhyphen"/>tified, and it is further declared and Ordained, that no Subject of <hi>Scotland</hi> ſute or deſire title or right of the Biſhop of <hi>Rome,</hi> or his Sect, to any thing within the Realm, un<g ref="char:EOLhyphen"/>der the pains of Proſcription, Baniſhment, and never to bruke Honour, Office nor Dignity within the Kingdom, and the Defenders of ſuch, or Furniſhers of them with Money, ſhall incurre the ſame Puniſhments, and the Contriveners hereof to be proceeded againſt by the Juſtice.</p>
+            <p>By another Act of <hi>Q. Maries</hi> made at <hi>Ed.</hi> the 24 of <hi>Auguſt,</hi> 1560. all former Acts of Parl. contrary to the Word of God, Proteſtant Principles, and Confeſſion of Faith of the Church of <hi>Scotland,</hi> are annulled.</p>
+            <p>
+               <hi>It.</hi> By the 3 Act 1 Par. <hi>Ja.</hi> 6. 1567. this laſt mentioned Act of <hi>Q. Maries</hi> is ra<g ref="char:EOLhyphen"/>tified, being <hi>verbatim</hi> repeated, and the 26 Articles of the Confeſſion of Faith inſert as they were approven by Parl. in <hi>Q. Maries</hi> Reign on the 17 <hi>Auguſt,</hi> 1560.</p>
+            <p>
+               <hi>It.</hi> By the 3 Act Parl. <hi>Q. Mary,</hi> made at <hi>Ed.</hi> 23 <hi>Auguſt,</hi> 1560. it is ſtatute and ordained, that no manner of perſon or perſons, ſay, hear, or be preſent at Maſs, under pain of Confiſcation of their Moveables and Unmoveables, and puniſhing their Bo<g ref="char:EOLhyphen"/>dies at the diſcretion of the Magiſtrates for the firſt fault, of Baniſhment out of the Realm for the ſecond fault, and of Death for the third fault.</p>
+            <p>
+               <hi>It.</hi> By the 5 Act 1 Parl. <hi>Ja.</hi> 6. 1567. this Immediate foregoing Act is ratified.</p>
+            <p>
+               <hi>It.</hi> By the 6 Act 1 Parl. <hi>Ja.</hi> 6. 1567. it is declared that whoever gainſays the Con<g ref="char:EOLhyphen"/>feſſion of Faith profeſſed in the Parl. 1560. and more particularly expreſſed and ra<g ref="char:EOLhyphen"/>tified in the preſent Parl. 1567. or refuſes the participation of the Sacraments as they are now adminiſtred, are no members of the Kirk of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>It.</hi> By the 8 Act 1 Parl. <hi>Jac.</hi> 6. 1567. It is declared, that the increaſe of vertue and Suppreſſing Idolatry craves that the Prince and People be of one perfect Religion, which is now of Gods mercy preſently profeſſed within this Realm. Therefore it is Statute and ordained, that all Kings Princes or Magiſtrates whatſoever, holding
+<pb n="2" facs="tcp:49632:2"/>their places, which hereafter in any time ſhall happen to Reign, and bear rule over this Realm, at the time of their Coronation and receipt of ther Princely Authority, make their faithfull promiſe by Oath, that during their lives they ſhall ſerve God ac<g ref="char:EOLhyphen"/>cording to the true Religion, and maintain it and the right adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments now received and Preached within this Realm, and ſhall aboliſh and gainſtand all falſe Religion contrary to the ſame, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>It.</hi> By the 25 Act 2 Parl. <hi>Ja.</hi> 6. 1571. all the above mentioned Acts are ratified.</p>
+            <p>
+               <hi>It.</hi> By the 45 Act 3 Parl. <hi>Ja.</hi> 6. 1572. the above noted 6 Act 1 Parl. <hi>Ja.</hi> 6. is ra<g ref="char:EOLhyphen"/>tified: and it is further enacted that all ſuſpect and relapſe Papiſts be warned, according to the Order of the Kirk; and if they be forth of the Realm on threeſcore dayes to recant their Papiſtical errors, give the Confeſſion of their Faith according to the Form ap<g ref="char:EOLhyphen"/>pointed and approved in Parliament, under the pain of Excommunication: and it is further declared that all obſtinate relapſe perſons who have returned to their Errors after profeſſing the true Religion, are and ſhall be repute and eſteemed Infamous, and unable to ſit or ſtand in Judgment, purſue, bear Office, nor be admitted as Witneſſes or Aſſizers againſt any profeſſing the true Religion; which being alledged be ſuffi<g ref="char:EOLhyphen"/>cient to decline them from Office, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>It.</hi> By the 27 Act Parl. 3. <hi>Jam.</hi> 6. 1572. It is declared, that the true Religion, and the Kings Authority, are ſo joyned, as the hurt of the one is common to both, and therefore Statutes that none ſhall be repute Loyall Subjects, but be puniſhable as Rebellers, and gainſtanders of the ſame, who ſhall not give Confeſſion, and make profeſſion of the true Religion; and that none that hath made defection therefrom be readmitted to the Kings mercy, but ſuch as give of new the Confeſſion of their Faith, and promiſe to continue in the profeſſion of the true Religion, and maintain it and the Preachers and profeſſors of it, againſt whatſoever enemies, and gainſtanders: and Namely, againſt whatſoever Nation, Eſtate, or degree they be that aſſiſt to ſet forward or execute the Decrees of the Cruel Councill of <hi>Trent.</hi>
+            </p>
+            <p>
+               <hi>It.</hi> By the 61 Act of the 5 Parliament of <hi>Jac.</hi> 6. the King being of perfect Age, all the before mentioned Acts are ratified.</p>
+            <p>
+               <hi>It.</hi> By the 68 Act of the 6 Parliament of <hi>Jac.</hi> 6. all the before mentioned Acts are ratified.</p>
+            <p>
+               <hi>It.</hi> By the 99 Act of the 7 Parl. of <hi>James</hi> 6. all the foregoing Acts are Ratified.</p>
+            <p>
+               <hi>It.</hi> By the 106 Act of the 7 Parliament of <hi>James</hi> 6. it is ſtatute, That none of the Kings Subjects, or Strangers, (excepting Ambaſſadors, Meſſengers, or Merchants) Adverſaries to the true Religion, or that hath declined therefrom, return to the Realm, or remain therein, except within forty days they give Confeſſion of their Faith, and ſubſcribe the Articles of the true Religion, and that in the Interim, none of them Re<g ref="char:EOLhyphen"/>pair to the Kings preſence, Palace, or dwelling Houſe, nor remain longer than three hours within ſeven miles of them; and whoever fails herein, ſhall be impriſon'd, untill they find Surety, that they ſhall either Recant their Errors, and profeſs the true Religion, or depart forth of the Realm within 15 days thereafter, and that in the mean time they ſhall do nothing for the promoting the Popiſh Errours.</p>
+            <p>
+               <hi>It.</hi> By the 23 Act, 10 Parl. <hi>Jac.</hi> 6. all the foregoing Acts are ratified after the Kings perfect age of 21 years.</p>
+            <p>
+               <hi>It.</hi> By the 114 Act, 12 Parl. of <hi>Jac.</hi> 6. all the foregoing Acts are ratified, and ſeveral priviledges granted to the Kirk.</p>
+            <p>
+               <hi>It.</hi> By the 120 Act, 12 Parliament <hi>Jac.</hi> 6. It is declared, that the ſaying of Maſſes, recepting of Jeſuits, Seminary Prieſts, and trafficquing Papiſts, doth Inferre the pain of Treaſon.</p>
+            <p>
+               <hi>It.</hi> By the 164 Act of the 13 Parl. of <hi>Ja.</hi> 6. It is ſtatute, that whatever perſon ſays Maſs, or Recepts or entertains for three nights, at ſeveral times, or together, excommunicate Jeſuites, or Trafficquing Papiſts, ſhall loſe his Eſcheat for the firſt fault; for the ſecond time ſhall Amit their Life-rent right of their whole Eſtate, and for the third time ſhall incurre the pain of Treaſon.</p>
+            <p>
+               <hi>It.</hi> By the 193 Act of the 14 Parl. of <hi>Ja.</hi> 6. It is ſtatute, that all wilfull hearers of Maſs, and Concealers of it, be execute to death.</p>
+            <pb n="3" facs="tcp:49632:2"/>
+            <p> 
+               <hi>It.</hi> By the 8 Act of the firſt Parl. of <hi>Char.</hi> 2. 1661. It is ſtatute, that none of his Majeſties Subjects, of what quality or degree ſoever, hear Maſs, ſupply, entertain, fur<g ref="char:EOLhyphen"/>niſh meat or drink, nor keep any Intelligence or Correſpondence with Prieſts, Jeſuits, or Trafficquing Papiſts, under the pains contained in the Laws and Acts of Parlia<g ref="char:EOLhyphen"/>ment made on that behalf—which is death, as may appear by the aforementioned Acts of Parliament.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Act_of_Parliament">
+                        <head>The Eleventh Act of the firſt Parliament of King <hi>Charles</hi> the Second, <hi>1661.</hi> Act for taking the Oath of Allegiance.</head>
+                        <p>OUr Sovereign Lord being truely ſenſible of the many Sufferings and ſad Con<g ref="char:EOLhyphen"/>fuſions, that his dutiful and Loyal Subjects have been brought under during theſe troubles; and deſirous that his Royal Government, in its due Adminiſtration, may be refreſhing and Comfortable unto them: And conceiving it neceſſary for that end, and for the honour and advancement of his own Service, the Welfare and Hap<g ref="char:EOLhyphen"/>pineſs of his Subjects, and the peace and quiet of this Kingdom, that the places of of Publique Truſt (which be the Channels and Conduits by which his Majeſties Government is conveyed unto his People,) be ſupplyed and exerciſed by perſons of known Integrity, Abilities and Loyalty: Do therefore declare; That it is and will be his Majeſties Royal Care, that thoſe whom (according to the undoubted right of the Crown) he hath, or ſhall think fit to call to his Councels, or any publick Im<g ref="char:EOLhyphen"/>ployments, ſhall be ſo qualified: And that for the full ſatisfaction of all his good Subjects, and for removing any Scruples or Jealouſies can ariſe upon this account, they ſhall before their admittance to, or exerciſe of any ſuch Truſt, Give ſuch publick teſtimony of their Duty and Loyalty, as may evidence to the world, they are ſuch as the Kingdom, and all honeſt men and good Subjects may juſtly confide in. And therefore the Kings Majeſty, with Advice and Conſent of his Eſtates of Peers had, Doth Statute and Ordain, That all and whatſoever perſon or perſons, who are or ſhall be Nominate by his Majeſty, to be his Officers of State, of his Privy Council, Seſſion or Exchequer, Juſtice General, Admiral, Sheriffs, Commiſſaries, and their Deputies, and Clerks; and all Magiſtrates, and Council of Royal Burghes, at their admiſſion to their ſeveral Offices, and before they offer to exerce the ſame, ſhall take and ſwear the Oath of Allegiance, hereunto ſubjoyned: And alſo that all other perſons, who ſhall be required by his Majeſties Privy Council, or any having Au<g ref="char:EOLhyphen"/>thority from them, ſhall be obliged to take and ſwear the ſame.</p>
+                        <div type="oath_of_allegiance">
+                           <head>The Oath of Allegiance.</head>
+                           <p>
+                              <hi>I —</hi> For teſtification of my faithful Obedience to my moſt Gracious and redoubted Soveraign, <hi>Charles</hi> King of <hi>Great Britain, France</hi> and <hi>Ireland, Defender of the Faith,</hi> &amp;c. Affirm, teſtifie and declare, by this my Solemn Oath, that I acknowledge my ſaid Sovereign only Supreme Governour of this Kingdom, over all Perſons, and in all Cauſes: And that no Forrein Prince, Power, State, or Perſon, Civil or Eccleſiaſtick, hath any Juriſdiction, Power or Superiority over the ſame. And therefore I do utterly Renounce and forſake all Forreign Power, Juriſdictions and Authorities: And ſhall at my utmoſt Power, defend, aſſiſt and maintain his Majeſties Juriſdiction, forefend againſt all deadly enemies: And ſhall never decline his Majeſties Power and Juriſdiction: As I ſhall anſwer to God.</p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Note,</hi> That the Confeſſion of Faith, and Doctrine Believed, and profeſſed by the Proteſtants in <hi>Scotland,</hi> in Twenty ſix Articles, were ratified by the Three Eſtates at <hi>Edenburgh, Aug.</hi> 17. 1560. and exhibited to the King, and ſame Eſtates in Par<g ref="char:EOLhyphen"/>liament, and by their publick Votes authorized as a Doctrine grounded on the In<g ref="char:EOLhyphen"/>fallible Word of God, <hi>Decemb.</hi> 15. 1567. which was the firſt Parliament of King <hi>James</hi> the ſixth, as may be ſeen in the fourth Act, or Chapter of the Statutes
+<pb n="4" facs="tcp:49632:3"/>then made: By the ſame Parliament, the following Chapters, or Statutes were enacted, <hi>viz.</hi>
+               <list>
+                  <item>1. <hi>For aboliſhing the Popes uſurped Authority, and the Laws formerly made againſt Gods Word.</hi> Chap. 2. &amp; 3.</item>
+                  <item>2. <hi>For Confirmation of the ſaid Confeſſion.</hi> Chap. 4.</item>
+                  <item>3. <hi>For aboliſhing the Maſs.</hi> Chap. 5.</item>
+                  <item>4. <hi>For Declaring the true and holy Kirke.</hi> Chap. 6.</item>
+                  <item>5. <hi>For Admiſſion of Miniſters.</hi> Chap. 7.</item>
+               </list>
+            </p>
+            <p>And according to theſe Acts, the Coronation Oath, which here follows, tranſcribed out of the Eighth Act, or Chapter of that Parliament, muſt needs be underſtood, when it requires the King to <hi>Maintain the true Religion,</hi> Preaching of the Word, and Admi<g ref="char:EOLhyphen"/>niſtration of the Sacraments, then received and preached in the Realm:</p>
+            <p>The Title of the Eighth Act, or Chapter, and the Act it ſelf follows in theſe words:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="coronation_oath">
+                        <head>8. Anent the Kings Oath to be given at his Coronation.</head>
+                        <p>
+                           <hi>Item.</hi> Becauſe that the encreaſe of Virtue and Suppreſſion of Idolatry craves that the Prince and the People be of one perfect Religion, which of Gods Mercy is now pre<g ref="char:EOLhyphen"/>ſently profeſſed within this Realm, Therefore it is Statute and Ordained, by our Sovereign Lord, My Lord Regent, and Three Eſtates of this preſent Parliament, That all Kings and Princes, or Magiſtrates whatſoever, holding their Place, which hereafter at any time ſhall happen to Reign or bear Rule over this Realm, at the time of their Coronation, and Receipt of their princely Authority, make their faithful promiſe by Oath, in the preſence of the Eternal God, that enduring the whole Courſe of their Lives, they ſhall ſerve the ſame Eternal God, to the uttermoſt of their power, according as he hath required in his moſt holy Word, revealed and Contained in the New, and Old Teſtaments, and according to the ſame Word ſhall maintain the True Religion of Chriſt Jeſus, the Preaching of his Holy Word, and due and right Adminiſtration of the Sacraments, now Received and Preached with<g ref="char:EOLhyphen"/>in this Realm: and ſhall Aboliſh and gainſtand all falſe Religion contrary to the ſame, and ſhall Rule the people committed to his charge according to the Will and Command of God revealed in his foreſaid Word, and according to the laudable Laws and Conſtitutions received in this Realm no wiſe Repugnant to the ſaid Word of the Eternal God, and ſhall procure to the uttermoſt of their power, to the Kirk of God, and whole Chriſtian People, true and perfect peace in all time to come: the Rights and Rents with all juſt Priviledges of the Crown of <hi>Scotland</hi> to preſerve, and keep inviolated, neither ſhall they transferr or alienate the ſame. They ſhall forbid and repreſs in all eſtates and degrees, Reife, Oppreſſion, and all kind of wrong: In all Judgements they ſhall Command and procure that Juſtice and Equity be keeped to all Creatures without exception, as the Lord and Father of Mercies be Mercifull to them: And out of their Lands and Empire they ſhall be careful to Root out all He<g ref="char:EOLhyphen"/>reſies, and enemies to the True Worſhip of God, that ſhall be convict of the true Kirk of God of the aforeſaid Crimes; and that they ſhall faithfully affirm the things above written with their Solemn Oath.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Chap.</hi> 9. Provides, that no perſon may be Judge, Procurator, or Member of Court, or Notary, who profeſſes not the true Religion.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
